@@ -1,3 +1,3 @@
 class SignupSerializer < ActiveModel::Serializer
-  attributes :id, :time
+  # attributes :id, :time
 end
